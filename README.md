@@ -11,3 +11,5 @@ Using "TFTLCD" was important
 
 The thing I got wrong initially was that:
 I tried using the ILI9341 Library which is the wrong one for these specific screens.
+
+![picture showing the screen in action](arduino_tft_lcd.jpeg)
